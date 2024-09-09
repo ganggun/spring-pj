@@ -1,7 +1,6 @@
 package org.example.pj.controller;
 
 import org.example.pj.dto.JoinDTO;
-import org.example.pj.entity.UserEntity;
 import org.example.pj.service.JoinService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
